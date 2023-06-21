@@ -14,4 +14,4 @@ describe(("Series of tests for determining if our string is a palindrome"), () =
     test(("isPalindrome('racecar') => true"), () => (expect(isPalindrome('racecar')).toBe(true)));
     test(("isPalindrome('RaceCar') => true"), () => (expect(isPalindrome('RaceCar')).toBe(true)));
     test(("isPalindrome(1) => false"), () => (expect(isPalindrome(1)).toBe(false)));
-})
+}) 
