@@ -1,4 +1,4 @@
-let {add, subtract, multiply, divide}= require("./mathFunctions.js/");
+let {add, subtract, multiply, divide}= require("./mathFunctions");
 
 // Describe the block of tests
 describe(("Testing the math functions in our javascript file with different values"), () => {
